@@ -45,3 +45,9 @@ All output is clean, timestamped, and CLI-friendly.
    # OR
    nano server-stats.sh  # paste script contents from server-stats.sh
 
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/server-stats-mac.git
+   cd server-stats-mac
